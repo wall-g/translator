@@ -1,0 +1,7 @@
+#textarea{
+    display: block;
+    height: 10vh;
+    width: 90%;
+    margin: 20px;
+    padding: 20px;
+}
