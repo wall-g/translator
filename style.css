@@ -5,3 +5,14 @@
     margin: 20px;
     padding: 20px;
 }
+#output{
+    border: 1px solid black;
+    height: 10vh;
+    width: 80%;
+    margin: 20px;
+    padding: 20px;
+}
+
+.hd{
+    font-size: larger;
+}
